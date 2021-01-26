@@ -1,0 +1,6 @@
+name: HeyAssist
+version: @version@
+main: net.jiyuuserver.heyassist.heyassist.HeyAssist
+api-version: 1.16
+authors: [ HeySiri_0 ]
+description: Simple and Beautiful Plugin.
